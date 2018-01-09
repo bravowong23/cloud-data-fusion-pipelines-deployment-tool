@@ -1,0 +1,5 @@
+datafusion-pipeline-1-extract-data
+datafusion-pipeline-2-check-data
+datafusion-pipeline-3-load-data
+datafusion-pipeline-4-process-data
+datafusion-pipeline-5-validate-result
