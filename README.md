@@ -1,18 +1,19 @@
 To run the provided shell scripts, you need to have below anyone of below environment:
 
   Linux or MAC OS
+  
   Cloudshell on GCP Console
-
+  
 To run the provided python script, you need to have below version installed:
 
   Python3
-
+  
 Windows user may need to run this on Windows Subsystem for Linux (WSL) but this hasn’t been tested
 
 Google Cloud SDK for authentication
   
   https://cloud.google.com/sdk/docs/install
-
+  
 Git for cloning your code from Google Cloud Source Repositories
 You also need administrative access to Data Fusion environment
 *we observed scripts run on different OS environment may have behavioral differences in result, MAC OS is the most reliable one
